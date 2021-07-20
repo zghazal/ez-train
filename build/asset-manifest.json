@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ez-train/static/css/main.0ce666e4.chunk.css",
+    "main.js": "/ez-train/static/js/main.892e8156.chunk.js",
+    "main.js.map": "/ez-train/static/js/main.892e8156.chunk.js.map",
+    "runtime-main.js": "/ez-train/static/js/runtime-main.07fd4cf0.js",
+    "runtime-main.js.map": "/ez-train/static/js/runtime-main.07fd4cf0.js.map",
+    "static/css/2.7b02688d.chunk.css": "/ez-train/static/css/2.7b02688d.chunk.css",
+    "static/js/2.1615359a.chunk.js": "/ez-train/static/js/2.1615359a.chunk.js",
+    "static/js/2.1615359a.chunk.js.map": "/ez-train/static/js/2.1615359a.chunk.js.map",
+    "index.html": "/ez-train/index.html",
+    "static/css/2.7b02688d.chunk.css.map": "/ez-train/static/css/2.7b02688d.chunk.css.map",
+    "static/css/main.0ce666e4.chunk.css.map": "/ez-train/static/css/main.0ce666e4.chunk.css.map",
+    "static/js/2.1615359a.chunk.js.LICENSE.txt": "/ez-train/static/js/2.1615359a.chunk.js.LICENSE.txt",
+    "static/media/logo.d22e3af1.PNG": "/ez-train/static/media/logo.d22e3af1.PNG",
+    "static/media/menu1.c700531a.jpg": "/ez-train/static/media/menu1.c700531a.jpg",
+    "static/media/menu2.4aec475a.jpg": "/ez-train/static/media/menu2.4aec475a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07fd4cf0.js",
+    "static/css/2.7b02688d.chunk.css",
+    "static/js/2.1615359a.chunk.js",
+    "static/css/main.0ce666e4.chunk.css",
+    "static/js/main.892e8156.chunk.js"
+  ]
+}
