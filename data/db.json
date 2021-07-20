@@ -1,0 +1,125 @@
+{
+  "exercises": [
+    {
+      "title": "Leg Exercises",
+      "body": "Go into an intense training solely focused on working your legs!",
+      "time": "30",
+      "img": "'https://img.icons8.com/ios/50/fa314a/leg.png'",
+      "id": 1
+    },
+    {
+      "title": "Chest Exercises",
+      "body": "Go into an intense training solely focused on working your chest!",
+      "time": "45",
+      "id": 2
+    },
+    {
+      "title": "Arm Exercises",
+      "body": "Go into an intense training solely focused on working your arms!",
+      "time": "30",
+      "id": 3
+    }
+  ],
+  "nutrition": [
+    {
+      "title": "Ketogenic diet",
+      "body": "The ketogenic diet has been used for decades. It involves reducing carbohydrate intake and upping fat intake. It sounds contrary to common sense, but it allows the body to burn fat as a fuel, rather than carbohydrates.",
+      "id": 1
+    },
+    {
+      "title": "Vegetarian diet",
+      "body": "Studies over the last few years have shown that vegetarians have a lower body weight, suffer less from diseases, and typically have a longer life expectancy than people who eat meat.",
+      "id": 2
+    },
+    {
+      "title": "Atkins diet",
+      "body": "The Atkins diet's proponents insist that you can lose weight by eating as much protein and fat as you like, as long as you avoid carbs. The main reason why low-carb diets are so effective for weight loss is that they reduce your appetite. This causes you to eat fewer calories without having to think about it",
+      "id": 3
+    },
+    {
+      "title": "Intermittent fasting",
+      "body": "Intermittent fasting cycles your body between periods of fasting and eating. Rather than restricting the foods you eat, it controls when you eat them. Thus, it can be seen as more of an eating pattern than a diet.",
+      "id": 4
+    }
+  ],
+  "profiles": [
+    {
+      "fname": "",
+      "lname": "",
+      "age": 0,
+      "id": 0
+    },
+    {
+      "fname": "fs",
+      "lname": "aca",
+      "age": "26-32",
+      "id": 1
+    },
+    {
+      "fname": "adcaca",
+      "lname": "acaca",
+      "age": "40+",
+      "id": 2
+    },
+    {
+      "fname": "Zayd",
+      "lname": "Ghazal",
+      "sexe": "Male",
+      "height": "175",
+      "weight": "69",
+      "age": "19-25",
+      "premium": "true",
+      "history": [
+        "Leg",
+        "Chest",
+        "Arm"
+      ],
+      "timeper": [
+        24,
+        43,
+        35
+      ],
+      "id": 3
+    },
+    {
+      "fname": "adad",
+      "lname": "test",
+      "age": "26-32",
+      "id": 4
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "age": "0-18",
+      "id": 5
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "age": "0-18",
+      "id": 6
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "age": "0-18",
+      "id": 7
+    }
+  ],
+  "nav-texts-eng": [
+    "Home",
+    "Exercices",
+    "Nutrition",
+    "Francais",
+    "Sign up",
+    "Profile"
+  ],
+  "nav-texts-fr": [
+    "Accueil",
+    "Exercices",
+    "Nutrition",
+    "English",
+    "S'inscrire",
+    "Profil"
+  ]
+}
